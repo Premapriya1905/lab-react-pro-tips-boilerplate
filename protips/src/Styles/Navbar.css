@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+#navbar{
+    background-color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    height: 8vh;
+    width: 100vw;
+}
+.link-style{
+    font-size: 2vw;
+    color: teal;
+}
+#links{
+    display: flex;
+    text-align: center;
+}
+#contact{
+    margin-right: 32vw;
+}
